@@ -18,5 +18,17 @@ public class MainActivity extends AppCompatActivity {
         android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
         android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
         android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+
+
+
+
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
+        android.widget.Toast.makeText(this, "Toast", android.widget.Toast.LENGTH_SHORT).show();
     }
 }
